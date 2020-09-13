@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chargethrower",
+  "name": "Charge Thrower",
+  "description": "With this mod, you can throw fire charges.\n\nBe careful, it ignites you.",
+  "version": "1.0.1",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Asterixxx"],
+  "credits": "Credits to the Forge and FML guys, for making the example this was based on, and to cadiboo's tutorial, Su5eD#1165, Watersfall#4320, temedy#9458, SkySom#7154, Zed#8160 and BoogieMonster1O1#2458 for helping me out",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
